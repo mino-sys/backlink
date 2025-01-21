@@ -18,9 +18,20 @@
     "url": "https://ososhiki.kinpoudou.co.jp/morinoie/saitama/",
     "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
     "area": {
+      "さいたま市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/saitama-shi/",
+      "川口市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kawaguchi-shi/",
       "越谷市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/koshigaya-shi/",
+      "春日部市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kasukabe-shi/",
+      "吉川市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/yoshikawa-shi/",
+      "三郷市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/misato-shi/",
       "八潮市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/yashio-shi/",
-      "さいたま市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/saitama-shi/"
+      "杉戸町": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/sugito-machi/",
+      "草加市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/soka-shi/",
+      "戸田市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/toda-shi/",
+      "久喜市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kuki-shi/",
+      "幸手市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/satte-shi/",
+      "宮代町": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/miyashiro-machi/",
+      "松伏町": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/matsubushi-machi/"
     }
   },
   {
@@ -53,6 +64,29 @@
       "荒川区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/arakawa-ku/",
       "板橋区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/itabashi-ku/",
       "練馬区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/nerima-ku/"
+    }
+  },
+  {
+    "brand": "nagasaka",
+    "pref": "saitama",
+    "title": "西東京･埼玉の葬儀･家族葬なら 家族葬の長坂",
+    "url": "https://www.nagasaka-shikiten.co.jp/",
+    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "area": {
+      "さいたま市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/saitama-shi/",
+      "川口市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kawaguchi-shi/",
+      "越谷市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/koshigaya-shi/",
+      "春日部市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kasukabe-shi/",
+      "吉川市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/yoshikawa-shi/",
+      "三郷市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/misato-shi/",
+      "八潮市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/yashio-shi/",
+      "杉戸町": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/sugito-machi/",
+      "草加市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/soka-shi/",
+      "戸田市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/toda-shi/",
+      "久喜市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kuki-shi/",
+      "幸手市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/satte-shi/",
+      "宮代町": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/miyashiro-machi/",
+      "松伏町": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/matsubushi-machi/"
     }
   },
   {
