@@ -1,0 +1,66 @@
+[
+  {
+    "brand": "morinoie",
+    "pref": "chiba",
+    "title": "千葉県の葬儀•家族葬なら 小さな森の家",
+    "url": "https://ososhiki.kinpoudou.co.jp/morinoie/chiba/",
+    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/yamazaki/img@2x.jpg",
+    "area": {
+      "野田市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/noda-shi/",
+      "松戸市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/matsudo-shi/",
+      "柏市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kashiwa-shi/"
+    }
+  },
+  {
+    "brand": "morinoie",
+    "pref": "saitama",
+    "title": "埼玉県の葬儀•家族葬なら 小さな森の家",
+    "url": "https://ososhiki.kinpoudou.co.jp/morinoie/saitama/",
+    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "area": {
+      "越谷市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/koshigaya-shi/",
+      "八潮市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/yashio-shi/",
+      "さいたま市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/saitama-shi/"
+    }
+  },
+  {
+    "brand": "morinoie",
+    "pref": "tokyo",
+    "title": "東京の葬儀･家族葬なら 小さな森の家",
+    "url": "https://ososhiki.kinpoudou.co.jp/morinoie/ibaraki/",
+    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "area": {
+      "新宿区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shinjuku-ku/",
+      "渋谷区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shibuya-ku/",
+      "杉並区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/suginami-ku/",
+      "葛飾区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/katsushika-ku/",
+      "足立区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/adachi-ku/",
+      "江戸川区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/edogawa-ku/",
+      "千代田区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/chiyoda-ku/",
+      "中央区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/chuo-ku/",
+      "港区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/minato-ku/",
+      "文京区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/bunkyo-ku/",
+      "台東区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/taito-ku/",
+      "墨田区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/sumida-ku/",
+      "江東区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/koto-ku/",
+      "品川区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shinagawa-ku/",
+      "目黒区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/meguro-ku/",
+      "大田区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/ota-ku/",
+      "世田谷区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/setagaya-ku/",
+      "中野区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/nakano-ku/",
+      "豊島区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/toshima-ku/",
+      "北区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kita-ku/",
+      "荒川区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/arakawa-ku/",
+      "板橋区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/itabashi-ku/",
+      "練馬区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/nerima-ku/"
+    }
+  },
+  {
+    "brand": "nagasaka",
+    "pref": "tokyo",
+    "title": "西東京･埼玉の葬儀･家族葬なら 家族葬の長坂",
+    "url": "https://ososhiki.kinpoudou.co.jp/morinoie/ibaraki/",
+    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg"
+  }
+  
+]
