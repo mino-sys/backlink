@@ -4,7 +4,8 @@
     "pref": "chiba",
     "title": "千葉県の葬儀•家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/morinoie/chiba/",
-    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/yamazaki/img@2x.jpg",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/yamazaki/img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/yamazaki/img@2x.jpg",
     "area": {
       "野田市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/noda-shi/",
       "松戸市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/matsudo-shi/",
@@ -16,7 +17,8 @@
     "pref": "saitama",
     "title": "埼玉県の葬儀•家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/morinoie/saitama/",
-    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
     "area": {
       "さいたま市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/saitama-shi/",
       "川口市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kawaguchi-shi/",
@@ -39,7 +41,8 @@
     "pref": "tokyo",
     "title": "東京の葬儀･家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/",
-    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
     "area": {
       "新宿区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shinjuku-ku/",
       "渋谷区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shibuya-ku/",
@@ -71,7 +74,8 @@
     "pref": "saitama",
     "title": "西東京･埼玉の葬儀･家族葬なら 家族葬の長坂",
     "url": "https://www.nagasaka-shikiten.co.jp/",
-    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/yamazaki/img@2x.jpg",
     "area": {
       "所沢市": "https://www.nagasaka-shikiten.co.jp/area/tokorozawa-shi/",
       "新座市": "https://www.nagasaka-shikiten.co.jp/area/niiza-shi/",
@@ -86,7 +90,8 @@
     "pref": "tokyo",
     "title": "西東京･埼玉の葬儀･家族葬なら 家族葬の長坂",
     "url": "https://www.nagasaka-shikiten.co.jp/",
-    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
     "area": {
       "新宿区": "https://www.nagasaka-shikiten.co.jp/area/shinjuku-ku/",
       "渋谷区": "https://www.nagasaka-shikiten.co.jp/area/shibuya-ku/",

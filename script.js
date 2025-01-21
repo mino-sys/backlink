@@ -1,6 +1,6 @@
 function jsonOutput(targetDiv) {
   //const jsonFilePath = "output.json";
-  const jsonFilePath = "https://mino-sys.github.io/backlink/output.json"; // 絶対URLを指定
+  const jsonFilePath = "https://mino-sys.github.io/backlink/output.json"; // 公開時はGitHubからの絶対URLを指定
 
 
   // data属性からbrandとprefを取得
@@ -62,13 +62,13 @@ function jsonOutput(targetDiv) {
         html += `
               </div>
 
-              <figure class="p-parts__img01">
-                <img src="${item.img}" alt="${item.title}" width="132" height="86">
-              </figure>
+            <figure class="p-parts__img01">
+              <img src="${item.img01}" alt="${item.title}" width="132" height="86">
+            </figure>
 
-              <figure class="p-parts__img02">
-                <img src="${item.img}" alt="${item.title}" width="132" height="86">
-              </figure>
+            <figure class="p-parts__img02">
+              <img src="${item.img02}" alt="${item.title}" width="132" height="86">
+            </figure>
 
             </div>
           </div>
@@ -81,7 +81,7 @@ function jsonOutput(targetDiv) {
       console.error("読み込みに失敗しました:", error);
       targetDiv.innerHTML = "<p>データの取得に失敗しました</p>";
     });
-}
+  }
 
 document.addEventListener("DOMContentLoaded", () => {
   const targetDivs = document.querySelectorAll(".kinpoudou-link");
