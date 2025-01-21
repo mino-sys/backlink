@@ -27,7 +27,7 @@
     "brand": "morinoie",
     "pref": "tokyo",
     "title": "東京の葬儀･家族葬なら 小さな森の家",
-    "url": "https://ososhiki.kinpoudou.co.jp/morinoie/ibaraki/",
+    "url": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/",
     "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
     "area": {
       "新宿区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shinjuku-ku/",
@@ -59,8 +59,33 @@
     "brand": "nagasaka",
     "pref": "tokyo",
     "title": "西東京･埼玉の葬儀･家族葬なら 家族葬の長坂",
-    "url": "https://ososhiki.kinpoudou.co.jp/morinoie/ibaraki/",
-    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg"
+    "url": "https://www.nagasaka-shikiten.co.jp/",
+    "img": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "area": {
+      "新宿区": "https://www.nagasaka-shikiten.co.jp/area/shinjuku-ku/",
+      "渋谷区": "https://www.nagasaka-shikiten.co.jp/area/shibuya-ku/",
+      "杉並区": "https://www.nagasaka-shikiten.co.jp/area/suginami-ku/",
+      "葛飾区": "https://www.nagasaka-shikiten.co.jp/area/katsushika-ku/",
+      "足立区": "https://www.nagasaka-shikiten.co.jp/area/adachi-ku/",
+      "江戸川区": "https://www.nagasaka-shikiten.co.jp/area/edogawa-ku/",
+      "千代田区": "https://www.nagasaka-shikiten.co.jp/area/chiyoda-ku/",
+      "中央区": "https://www.nagasaka-shikiten.co.jp/area/chuo-ku/",
+      "港区": "https://www.nagasaka-shikiten.co.jp/area/minato-ku/",
+      "文京区": "https://www.nagasaka-shikiten.co.jp/area/bunkyo-ku/",
+      "台東区": "https://www.nagasaka-shikiten.co.jp/area/taito-ku/",
+      "墨田区": "https://www.nagasaka-shikiten.co.jp/area/sumida-ku/",
+      "江東区": "https://www.nagasaka-shikiten.co.jp/area/koto-ku/",
+      "品川区": "https://www.nagasaka-shikiten.co.jp/area/shinagawa-ku/",
+      "目黒区": "https://www.nagasaka-shikiten.co.jp/area/meguro-ku/",
+      "大田区": "https://www.nagasaka-shikiten.co.jp/area/ota-ku/",
+      "世田谷区": "https://www.nagasaka-shikiten.co.jp/area/setagaya-ku/",
+      "中野区": "https://www.nagasaka-shikiten.co.jp/area/nakano-ku/",
+      "豊島区": "https://www.nagasaka-shikiten.co.jp/area/toshima-ku/",
+      "北区": "https://www.nagasaka-shikiten.co.jp/area/kita-ku/",
+      "荒川区": "https://www.nagasaka-shikiten.co.jp/area/arakawa-ku/",
+      "板橋区": "https://www.nagasaka-shikiten.co.jp/area/itabashi-ku/",
+      "練馬区": "https://www.nagasaka-shikiten.co.jp/area/nerima-ku/"
+    }
   }
   
 ]
