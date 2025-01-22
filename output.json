@@ -23,7 +23,7 @@
   {
     "brand": "senwa",
     "pref": "miyagi",
-    "title": "仙台･石巻･塩釜･多賀城の葬儀･家族葬なら 家族葬の仙和",
+    "title": "仙台･石巻･塩釜･多賀城の葬儀･家族葬なら <br class='sp__inline'>家族葬の仙和",
     "url": "https://ososhiki.kinpoudou.co.jp/area/senwa/",
     "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/senwa/fukumuro/img_sp@2x.jpg",
     "img02": "https://towas.jp/wp/wp-content/themes/towas/img/hall/common/area-img@2x.jpg",
@@ -252,7 +252,7 @@
     "title": "豊橋･豊川の葬儀･家族葬なら 家族葬のトワーズ",
     "url": "https://towas.jp/aichi/",
     "img01": "https://towas.jp/wp/wp-content/themes/towas/img/hall/toyohashi-nishi/toyohashi-nishi_img@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
+    "img02": "https://towas.jp/wp/wp-content/themes/towas/img/hall/common/area-img@2x.jpg",
     "area": {
       "豊橋市": "https://towas.jp/aichi/toyohashi-shi/",
       "豊川市": "https://towas.jp/aichi/toyokawa-shi/",
