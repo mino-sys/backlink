@@ -271,5 +271,45 @@
       "金沢市エリアの式場･斎場一覧": "https://ososhiki.kinpoudou.co.jp/area/ishikawa/tomoka/hall/kanazawa-shi/",
       "野々市市エリアの式場･斎場一覧": "https://ososhiki.kinpoudou.co.jp/area/ishikawa/tomoka/hall/nonoichi-shi/"
     }
+  },
+  {
+    "brand": "memoryhouse",
+    "pref": "osaka",
+    "title": "大阪エリアの葬儀･家族葬なら 家族葬のメモリーハウス",
+    "url": "https://ososhiki.kinpoudou.co.jp/memoryhouse/",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/movie/memoryhouse-thumbnail@2x.jpg",
+    "img02": "https://towas.jp/wp/wp-content/themes/towas/img/hall/common/area-img@2x.jpg",
+    "area": {
+      "大阪市": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/",
+      "生野区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/ikuno-ku/",
+      "平野区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/hirano-ku/",
+      "東住吉区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/higashisumiyoshi-ku/",
+      "大正区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/taisho-ku/",
+      "西淀川区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/nishiyodogawa-ku/",
+      "鶴見区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/tsurumi-ku/",
+      "阿倍野区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/abeno-ku/",
+      "西成区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/nishinari-ku/",
+      "住吉区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/sumiyoshi-ku/",
+      "城東区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/joto-ku/",
+      "天王寺区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/tennoji-ku/",
+      "港区": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/osaka-shi/minato-ku/",
+      "東大阪市": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/higashiosaka-shi/",
+      "寝屋川市": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/neyagawa-shi/",
+      "高槻市": "https://ososhiki.kinpoudou.co.jp/memoryhouse/osaka/takatsuki-shi/"
+    }
+  },
+  {
+    "brand": "kanakura",
+    "pref": "kagawa",
+    "title": "高松･坂出･丸亀･観音寺の葬儀･家族葬なら 家族葬のカナクラオールストーン",
+    "url": "https://ososhiki.kinpoudou.co.jp/area/kagawa/kanakura/",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/kanakura/rainbow/img_sp.jpg",
+    "img02": "https://towas.jp/wp/wp-content/themes/towas/img/hall/common/area-img@2x.jpg",
+    "area": {
+      "高松市": "https://ososhiki.kinpoudou.co.jp/area/kagawa/kanakura/takamatsu-shi/",
+      "観音寺市": "https://ososhiki.kinpoudou.co.jp/area/kagawa/kanakura/kanonji-shi/",
+      "丸亀市": "https://ososhiki.kinpoudou.co.jp/area/kagawa/kanakura/marugame-shi/",
+      "坂出市": "https://ososhiki.kinpoudou.co.jp/area/kagawa/kanakura/sakaide-shi/"
+    }
   }
 ]
