@@ -20,6 +20,20 @@
     }
   },
   {
+    "brand": "senwa",
+    "pref": "yamagata",
+    "title": "山形の葬儀･家族葬なら 家族葬の仙和",
+    "url": "https://ososhiki.kinpoudou.co.jp/area/senwa/",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/senwa/hinokicho/img_sp@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/consult_main@2x.jpg",
+    "area": {
+      "山形市": "https://ososhiki.kinpoudou.co.jp/area/senwa/yamagata/yamagata-shi/",
+      "山形南原": "https://ososhiki.kinpoudou.co.jp/area/senwa/yamagata/yamagata-shi/minamihara-hall/",
+      "山形清住": "https://ososhiki.kinpoudou.co.jp/area/senwa/yamagata/yamagata-shi/kiyozumi-hall/",
+      "山形桧町": "https://ososhiki.kinpoudou.co.jp/area/senwa/yamagata/yamagata-shi/hinokicho-hall/"
+    }
+  },
+  {
     "brand": "morinoie",
     "pref": "chiba",
     "title": "千葉県の葬儀･家族葬なら 小さな森の家",
