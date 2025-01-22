@@ -1,5 +1,26 @@
 [
   {
+    "brand": "dearness",
+    "pref": "hokkaido",
+    "title": "札幌市の葬儀･家族葬なら 家族葬のディアネス",
+    "url": "https://www.cpshokushin.com/",
+    "img01": "https://www.cpshokushin.com/cmswp/wp-content/themes/cps/img/hall/tonden/hall/img@2x.jpg",
+    "img02": "https://towas.jp/wp/wp-content/themes/towas/img/hall/common/area-img@2x.jpg",
+    "area": {
+      "札幌市": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi",
+      "北区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/kita-ku",
+      "豊平区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/toyohira-ku",
+      "西区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/nishi-ku",
+      "白石区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/shiroishi-ku",
+      "手稲区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/teine-ku",
+      "東区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/higashi-ku",
+      "清田区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/kiyota-ku",
+      "中央区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/chuo-ku",
+      "南区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/minami-ku",
+      "厚別区": "https://www.cpshokushin.com/area/hokkaido/sapporo-shi/atsubetsu-ku"
+    }
+  },
+  {
     "brand": "senwa",
     "pref": "miyagi",
     "title": "仙台･石巻･塩釜･多賀城の葬儀･家族葬なら 家族葬の仙和",
@@ -22,7 +43,7 @@
   {
     "brand": "senwa",
     "pref": "yamagata",
-    "title": "山形の葬儀･家族葬なら 家族葬の仙和",
+    "title": "山形市の葬儀･家族葬なら 家族葬の仙和",
     "url": "https://ososhiki.kinpoudou.co.jp/area/senwa/",
     "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/senwa/hinokicho/img_sp@2x.jpg",
     "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/consult_main@2x.jpg",
