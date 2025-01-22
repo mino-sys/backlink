@@ -1,5 +1,25 @@
 [
   {
+    "brand": "senwa",
+    "pref": "miyagi",
+    "title": "仙台･石巻･塩釜･多賀城の葬儀･家族葬なら 家族葬の仙和",
+    "url": "https://ososhiki.kinpoudou.co.jp/area/senwa/",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/senwa/fukumuro/img_sp@2x.jpg",
+    "img02": "https://towas.jp/wp/wp-content/themes/towas/img/hall/common/area-img@2x.jpg",
+    "area": {
+      "仙台市": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/sendai-shi/",
+      "青葉区": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/sendai-shi/aoba-ku/",
+      "宮城野区": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/sendai-shi/miyagino-ku/",
+      "若林区": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/sendai-shi/wakabayashi-ku/",
+      "太白区": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/sendai-shi/taihaku-ku/",
+      "泉区": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/sendai-shi/izumi-ku/",
+      "多賀城市": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/tagajo-shi/",
+      "塩竈市": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/shiogama-shi/",
+      "利府町": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/rifu-cho/",
+      "石巻市": "https://ososhiki.kinpoudou.co.jp/area/senwa/miyagi/ishinomaki-shi/"
+    }
+  },
+  {
     "brand": "morinoie",
     "pref": "chiba",
     "title": "千葉県の葬儀･家族葬なら 小さな森の家",
