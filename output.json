@@ -259,5 +259,17 @@
       "田原市": "https://towas.jp/aichi/tahara-shi/",
       "蒲郡市": "https://towas.jp/aichi/gamagori-shi/"
     }
+  },
+  {
+    "brand": "tomoka",
+    "pref": "ishikawa",
+    "title": "金沢･野々市の葬儀･家族葬なら 家族葬のともか",
+    "url": "https://ososhiki.kinpoudou.co.jp/area/ishikawa/tomoka/",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/tomoka02/hall/shinkanda/shinkanda_img_sp@2x.jpg",
+    "img02": "https://towas.jp/wp/wp-content/themes/towas/img/hall/common/area-img@2x.jpg",
+    "area": {
+      "金沢市エリアの式場･斎場一覧": "https://ososhiki.kinpoudou.co.jp/area/ishikawa/tomoka/hall/kanazawa-shi/",
+      "野々市市エリアの式場･斎場一覧": "https://ososhiki.kinpoudou.co.jp/area/ishikawa/tomoka/hall/nonoichi-shi/"
+    }
   }
 ]
