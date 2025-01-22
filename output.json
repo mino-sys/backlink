@@ -59,8 +59,8 @@
     "pref": "tokyo",
     "title": "東京の葬儀･家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/",
-    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/kawama/img@2x.jpg",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/adachi-yazaike/img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/pref/pref-mv@2x.jpg",
     "area": {
       "新宿区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shinjuku-ku/",
       "渋谷区": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shibuya-ku/",
@@ -159,6 +159,19 @@
       "稲敷市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/inashiki-shi/",
       "美浦村": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/miho-mura/",
       "利根町": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/tone-machi/"
+    }
+  },
+  {
+    "brand": "morinoie",
+    "pref": "kanagawa",
+    "title": "神奈川県の葬儀･家族葬なら 小さな森の家",
+    "url": "https://ososhiki.kinpoudou.co.jp/morinoie/kanagawa/",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/north-hall/img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
+    "area": {
+      "川崎市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kawasaki-shi/",
+      "厚木市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/atsugi-shi/",
+      "横浜市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/yokohama-shi/"
     }
   },
   {
