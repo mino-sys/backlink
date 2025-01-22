@@ -46,7 +46,7 @@
     "title": "山形市の葬儀･家族葬なら 家族葬の仙和",
     "url": "https://ososhiki.kinpoudou.co.jp/area/senwa/",
     "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/senwa/hinokicho/img_sp@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/consult_main@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
     "area": {
       "山形市": "https://ososhiki.kinpoudou.co.jp/area/senwa/yamagata/yamagata-shi/",
       "山形南原": "https://ososhiki.kinpoudou.co.jp/area/senwa/yamagata/yamagata-shi/minamihara-hall/",
@@ -57,14 +57,27 @@
   {
     "brand": "morinoie",
     "pref": "chiba",
-    "title": "千葉県の葬儀･家族葬なら 小さな森の家",
+    "title": "千葉の葬儀･家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/morinoie/chiba/",
-    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/yamazaki/img@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/yamazaki/img@2x.jpg",
+    "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/morinoie/fvcta/fvCta_hall@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
     "area": {
-      "野田市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/noda-shi/",
+      "千葉市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/chiba-shi/",
+      "市川市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/ichikawa-shi/",
+      "船橋市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/funabashi-shi/",
+      "習志野市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/narashino-shi/",
+      "八千代市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/yachiyo-shi/",
+      "鎌ケ谷市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kamagaya-shi/",
       "松戸市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/matsudo-shi/",
-      "柏市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kashiwa-shi/"
+      "柏市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kashiwa-shi/",
+      "流山市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/nagareyama-shi/",
+      "佐倉市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/sakura-shi/",
+      "野田市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/noda-shi/",
+      "我孫子市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/abiko-shi/",
+      "白井市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/shiroi-shi/",
+      "印西市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/inzai-shi/",
+      "市原市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/ichihara-shi/",
+      "四街道市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/yotsukaido-shi/"
     }
   },
   {
