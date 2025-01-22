@@ -93,7 +93,7 @@
     "title": "千葉の葬儀･家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/morinoie/chiba/",
     "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/morinoie/fvcta/fvCta_hall@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/pref/pref-mv@2x.jpg",
     "area": {
       "千葉市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/chiba-shi/",
       "市川市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/ichikawa-shi/",
@@ -119,7 +119,7 @@
     "title": "埼玉県の葬儀･家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/morinoie/saitama/",
     "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/adachi-yazaike/img@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/pref/pref-mv@2x.jpg",
     "area": {
       "さいたま市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/saitama-shi/",
       "川口市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kawaguchi-shi/",
@@ -143,7 +143,7 @@
     "title": "茨城県の葬儀･家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/morinoie/ibaraki/",
     "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/higashi-arai/img@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/pref/pref-mv@2x.jpg",
     "area": {
       "つくば市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/tsukuba-shi/",
       "土浦市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/tsuchiura-shi/",
@@ -167,7 +167,7 @@
     "title": "神奈川県の葬儀･家族葬なら 小さな森の家",
     "url": "https://ososhiki.kinpoudou.co.jp/morinoie/kanagawa/",
     "img01": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/hall/morinoie/north-hall/img@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/pref/pref-mv@2x.jpg",
     "area": {
       "川崎市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/kawasaki-shi/",
       "厚木市": "https://ososhiki.kinpoudou.co.jp/area/chiba/morinoie/atsugi-shi/",
@@ -176,24 +176,8 @@
   },
   {
     "brand": "nagasaka",
-    "pref": "saitama",
-    "title": "西東京･埼玉の葬儀･家族葬なら 家族葬の長坂",
-    "url": "https://www.nagasaka-shikiten.co.jp/",
-    "img01": "https://www.nagasaka-shikiten.co.jp/wp/wp-content/themes/nagasaka/site/images/hall/higashiyamato/higashiyamato@2x.jpg",
-    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
-    "area": {
-      "所沢市": "https://www.nagasaka-shikiten.co.jp/area/tokorozawa-shi/",
-      "新座市": "https://www.nagasaka-shikiten.co.jp/area/niiza-shi/",
-      "さいたま市": "https://www.nagasaka-shikiten.co.jp/area/saitama-shi/",
-      "入間市": "https://www.nagasaka-shikiten.co.jp/area/iruma-shi/",
-      "狭山市": "https://www.nagasaka-shikiten.co.jp/area/sayama-shi/",
-      "朝霞市": "https://www.nagasaka-shikiten.co.jp/area/asaka-shi/"
-    }
-  },
-  {
-    "brand": "nagasaka",
     "pref": "tokyo",
-    "title": "西東京･埼玉の葬儀･家族葬なら 家族葬の長坂",
+    "title": "東京の葬儀･家族葬なら 家族葬の長坂",
     "url": "https://www.nagasaka-shikiten.co.jp/",
     "img01": "https://www.nagasaka-shikiten.co.jp/wp/wp-content/themes/nagasaka/site/images/hall/higashi-tokorozawa/higashi-tokorozawa@2x.jpg",
     "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
@@ -229,6 +213,51 @@
       "東久留米市": "https://www.nagasaka-shikiten.co.jp/area/higashikurume-shi/",
       "昭島市": "https://www.nagasaka-shikiten.co.jp/area/akishima-shi/"
     }
+  },
+  {
+    "brand": "nagasaka",
+    "pref": "saitama",
+    "title": "所沢エリアの葬儀･家族葬なら 家族葬の長坂",
+    "url": "https://www.nagasaka-shikiten.co.jp/",
+    "img01": "https://www.nagasaka-shikiten.co.jp/wp/wp-content/themes/nagasaka/site/images/hall/higashiyamato/higashiyamato@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
+    "area": {
+      "所沢市": "https://www.nagasaka-shikiten.co.jp/area/tokorozawa-shi/",
+      "新座市": "https://www.nagasaka-shikiten.co.jp/area/niiza-shi/",
+      "さいたま市": "https://www.nagasaka-shikiten.co.jp/area/saitama-shi/",
+      "入間市": "https://www.nagasaka-shikiten.co.jp/area/iruma-shi/",
+      "狭山市": "https://www.nagasaka-shikiten.co.jp/area/sayama-shi/",
+      "朝霞市": "https://www.nagasaka-shikiten.co.jp/area/asaka-shi/"
+    }
+  },
+  {
+    "brand": "towas",
+    "pref": "shizuoka",
+    "title": "浜松･静岡･湖西の葬儀･家族葬なら 家族葬のトワーズ",
+    "url": "https://towas.jp/shizuoka/",
+    "img01": "https://towas.jp/wp/wp-content/themes/towas/img/hall/azukimochi/azukimochi_img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/pref/pref-mv@2x.jpg",
+    "area": {
+      "浜松市": "https://towas.jp/shizuoka/hamamatsu-shi/",
+      "静岡市": "https://towas.jp/shizuoka/shizuoka-shi/",
+      "湖西市": "https://towas.jp/shizuoka/kosai-shi/",
+      "磐田市": "https://towas.jp/shizuoka/iwata-shi/",
+      "袋井市": "https://towas.jp/shizuoka/fukuroi-shi/",
+      "掛川市": "https://towas.jp/shizuoka/kakegawa-shi/"
+    }
+  },
+  {
+    "brand": "towas",
+    "pref": "aichi",
+    "title": "豊橋･豊川の葬儀･家族葬なら 家族葬のトワーズ",
+    "url": "https://towas.jp/aichi/",
+    "img01": "https://towas.jp/wp/wp-content/themes/towas/img/hall/toyohashi-nishi/toyohashi-nishi_img@2x.jpg",
+    "img02": "https://ososhiki.kinpoudou.co.jp/wp/wp-content/themes/ososhiki/img/common/top/feature-img05@2x.jpg",
+    "area": {
+      "豊橋市": "https://towas.jp/aichi/toyohashi-shi/",
+      "豊川市": "https://towas.jp/aichi/toyokawa-shi/",
+      "田原市": "https://towas.jp/aichi/tahara-shi/",
+      "蒲郡市": "https://towas.jp/aichi/gamagori-shi/"
+    }
   }
-  
 ]
