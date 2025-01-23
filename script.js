@@ -38,12 +38,9 @@ function jsonOutput(targetDiv) {
       let html = "";
       filteredData.forEach((item) => {
 
-
-
-
         html += `
           <div class="p-parts">
-            <p class="p-parts__title"><a href="${item.url}" target="_blank" rel="noopener noreferrer" class="p-parts__title--link">${item.title}</a></p>
+            <p class="p-parts__title"><a href="${item.url}" target="_blank" class="p-parts__title--link">${item.title}</a></p>
 
             <div class="p-parts__box">
 
@@ -52,13 +49,11 @@ function jsonOutput(targetDiv) {
               if (item.area && typeof item.area === "object") {
                 html += '<ul class="p-parts__list">';
                 for (const [city, cityUrl] of Object.entries(item.area)) {
-                  html += `<li class="p-parts__list--txt"><a href="${cityUrl}" target="_blank" rel="noopener noreferrer">${city}</a></li>`;
+                  html += `<li class="p-parts__list--txt"><a href="${cityUrl}" target="_blank">${city}</a></li>`;
                 }
                 html += '</ul>';
               }
 
-
-              
         html += `
               </div>
 
